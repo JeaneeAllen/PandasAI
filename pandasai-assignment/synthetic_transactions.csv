@@ -1,751 +1,751 @@
-TransactionID,Category,Region,PaymentMethod,Amount
-1,Home,South,Mobile Pay,132.55
-2,Beauty,West,Mobile Pay,234.0
-3,Groceries,West,Credit Card,434.79
-4,Beauty,West,Cash,364.95
-5,Beauty,West,Cash,372.64
-6,Clothing,West,Mobile Pay,215.62
-7,Groceries,West,Cash,176.24
-8,Groceries,North,Debit Card,188.66
-9,Groceries,East,Debit Card,493.89
-10,Beauty,West,Cash,24.85
-11,Home,East,Cash,434.18
-12,Groceries,East,Mobile Pay,291.44
-13,Beauty,North,Debit Card,222.11
-14,Clothing,West,Debit Card,364.0
-15,Home,South,Credit Card,245.9
-16,Clothing,North,Mobile Pay,437.34
-17,Home,South,Credit Card,450.85
-18,Beauty,East,Debit Card,213.75
-19,Electronics,East,Mobile Pay,142.03
-20,Home,North,Cash,298.21
-21,Clothing,North,Mobile Pay,456.62
-22,Beauty,South,Cash,109.28
-23,Home,West,Cash,313.37
-24,Electronics,South,Mobile Pay,317.62
-25,Electronics,North,Cash,367.89
-26,Groceries,South,Credit Card,70.13
-27,Groceries,North,Debit Card,359.33
-28,Clothing,South,Cash,454.97
-29,Home,North,Credit Card,93.94
-30,Home,North,Cash,122.58
-31,Groceries,North,Debit Card,485.84
-32,Home,West,Credit Card,94.58
-33,Home,South,Debit Card,427.92
-34,Electronics,South,Debit Card,248.68
-35,Groceries,South,Credit Card,127.38
-36,Beauty,North,Credit Card,436.02
-37,Groceries,South,Credit Card,225.43
-38,Beauty,South,Mobile Pay,259.83
-39,Electronics,North,Credit Card,182.82
-40,Clothing,East,Credit Card,298.51
-41,Home,North,Credit Card,85.94
-42,Electronics,South,Credit Card,198.59
-43,Home,North,Cash,484.86
-44,Clothing,East,Mobile Pay,132.78
-45,Clothing,North,Debit Card,330.08
-46,Electronics,South,Credit Card,165.97
-47,Clothing,East,Cash,387.87
-48,Beauty,West,Cash,69.78
-49,Clothing,South,Cash,485.06
-50,Home,East,Debit Card,229.63
-51,Home,East,Credit Card,121.84
-52,Home,West,Mobile Pay,41.38
-53,Home,North,Mobile Pay,89.03
-54,Beauty,North,Cash,262.29
-55,Groceries,South,Debit Card,171.82
-56,Electronics,West,Debit Card,415.3
-57,Home,North,Debit Card,218.29
-58,Clothing,West,Mobile Pay,128.11
-59,Home,North,Cash,310.49
-60,Clothing,East,Credit Card,354.85
-61,Clothing,North,Mobile Pay,87.69
-62,Home,West,Cash,87.97
-63,Beauty,East,Cash,23.15
-64,Clothing,East,Credit Card,369.52
-65,Clothing,East,Credit Card,333.58
-66,Home,West,Credit Card,239.94
-67,Clothing,South,Debit Card,422.86
-68,Clothing,South,Credit Card,403.81
-69,Home,South,Cash,294.75
-70,Home,West,Credit Card,434.79
-71,Electronics,East,Cash,106.89
-72,Beauty,South,Mobile Pay,60.4
-73,Beauty,West,Debit Card,138.53
-74,Clothing,South,Mobile Pay,33.26
-75,Beauty,North,Mobile Pay,267.93
-76,Clothing,South,Cash,468.62
-77,Electronics,South,Mobile Pay,24.48
-78,Home,East,Cash,65.44
-79,Home,West,Credit Card,228.84
-80,Home,East,Credit Card,467.27
-81,Beauty,East,Cash,161.5
-82,Electronics,East,Credit Card,256.08
-83,Beauty,East,Debit Card,25.58
-84,Beauty,East,Mobile Pay,78.43
-85,Electronics,South,Debit Card,493.38
-86,Electronics,East,Mobile Pay,482.73
-87,Electronics,East,Credit Card,7.45
-88,Electronics,West,Debit Card,476.15
-89,Home,North,Credit Card,321.36
-90,Groceries,South,Mobile Pay,434.62
-91,Groceries,South,Cash,230.1
-92,Electronics,South,Cash,260.22
-93,Groceries,East,Debit Card,246.98
-94,Groceries,East,Credit Card,335.1
-95,Electronics,East,Credit Card,74.13
-96,Groceries,West,Debit Card,19.84
-97,Beauty,North,Cash,157.43
-98,Clothing,East,Mobile Pay,353.82
-99,Clothing,North,Debit Card,104.92
-100,Electronics,West,Mobile Pay,338.35
-101,Home,South,Cash,485.11
-102,Electronics,East,Credit Card,51.48
-103,Home,North,Cash,337.94
-104,Clothing,North,Debit Card,224.66
-105,Electronics,East,Credit Card,434.73
-106,Beauty,South,Debit Card,92.69
-107,Groceries,South,Debit Card,347.85
-108,Home,South,Cash,419.87
-109,Groceries,West,Debit Card,472.58
-110,Groceries,North,Cash,343.21
-111,Electronics,North,Credit Card,251.1
-112,Groceries,North,Cash,310.83
-113,Beauty,West,Credit Card,435.11
-114,Groceries,North,Cash,287.45
-115,Electronics,West,Mobile Pay,20.04
-116,Beauty,South,Mobile Pay,465.82
-117,Clothing,East,Debit Card,346.32
-118,Groceries,North,Cash,339.87
-119,Electronics,North,Cash,111.76
-120,Clothing,South,Credit Card,331.15
-121,Clothing,East,Debit Card,199.96
-122,Home,West,Cash,327.36
-123,Beauty,East,Debit Card,57.76
-124,Groceries,South,Mobile Pay,330.63
-125,Electronics,South,Cash,499.71
-126,Home,East,Cash,28.86
-127,Beauty,West,Debit Card,488.7
-128,Home,West,Cash,206.42
-129,Beauty,North,Debit Card,436.02
-130,Beauty,West,Cash,392.28
-131,Groceries,East,Credit Card,285.67
-132,Beauty,South,Debit Card,370.53
-133,Home,North,Cash,439.87
-134,Beauty,North,Mobile Pay,205.05
-135,Groceries,South,Cash,166.88
-136,Groceries,West,Mobile Pay,335.46
-137,Home,South,Mobile Pay,404.88
-138,Clothing,West,Credit Card,382.33
-139,Clothing,South,Debit Card,399.92
-140,Beauty,East,Cash,220.61
-141,Electronics,West,Credit Card,409.83
-142,Beauty,East,Cash,64.5
-143,Home,North,Mobile Pay,274.52
-144,Home,South,Debit Card,7.85
-145,Home,North,Cash,165.67
-146,Home,North,Cash,186.4
-147,Home,North,Mobile Pay,201.11
-148,Groceries,North,Cash,349.26
-149,Clothing,South,Cash,197.34
-150,Home,North,Mobile Pay,227.1
-151,Electronics,South,Credit Card,122.58
-152,Electronics,South,Mobile Pay,189.76
-153,Electronics,East,Credit Card,117.5
-154,Electronics,West,Debit Card,41.23
-155,Groceries,West,Credit Card,303.71
-156,Electronics,South,Credit Card,335.77
-157,Home,East,Debit Card,311.65
-158,Beauty,South,Credit Card,234.43
-159,Electronics,South,Mobile Pay,192.99
-160,Groceries,South,Credit Card,432.35
-161,Groceries,East,Debit Card,261.95
-162,Electronics,West,Mobile Pay,242.2
-163,Beauty,East,Debit Card,17.69
-164,Electronics,North,Debit Card,173.92
-165,Groceries,East,Cash,193.2
-166,Clothing,East,Cash,202.42
-167,Home,East,Debit Card,292.19
-168,Groceries,East,Debit Card,269.13
-169,Electronics,West,Debit Card,305.91
-170,Home,North,Cash,383.62
-171,Electronics,West,Cash,407.43
-172,Electronics,West,Credit Card,360.47
-173,Clothing,East,Credit Card,477.98
-174,Home,South,Debit Card,14.03
-175,Home,South,Mobile Pay,101.91
-176,Clothing,West,Mobile Pay,8.74
-177,Groceries,West,Cash,325.5
-178,Electronics,East,Cash,449.53
-179,Beauty,West,Cash,125.52
-180,Electronics,East,Debit Card,463.88
-181,Electronics,South,Mobile Pay,34.83
-182,Groceries,South,Credit Card,467.55
-183,Electronics,North,Debit Card,179.05
-184,Clothing,South,Credit Card,55.2
-185,Clothing,West,Credit Card,245.51
-186,Home,South,Debit Card,132.1
-187,Beauty,East,Credit Card,146.01
-188,Electronics,South,Mobile Pay,157.11
-189,Electronics,North,Credit Card,402.5
-190,Groceries,South,Mobile Pay,271.88
-191,Clothing,East,Mobile Pay,159.1
-192,Beauty,East,Mobile Pay,307.12
-193,Home,West,Cash,359.49
-194,Clothing,South,Credit Card,139.95
-195,Home,East,Debit Card,209.71
-196,Groceries,North,Debit Card,65.33
-197,Groceries,West,Credit Card,94.67
-198,Electronics,North,Cash,342.15
-199,Beauty,South,Cash,94.81
-200,Home,South,Mobile Pay,264.96
-201,Clothing,South,Credit Card,355.98
-202,Groceries,West,Credit Card,57.9
-203,Electronics,East,Debit Card,285.82
-204,Electronics,West,Credit Card,132.0
-205,Home,North,Cash,481.65
-206,Groceries,West,Credit Card,244.36
-207,Beauty,North,Debit Card,403.97
-208,Groceries,West,Mobile Pay,277.36
-209,Home,East,Debit Card,26.49
-210,Home,North,Debit Card,318.41
-211,Groceries,South,Mobile Pay,475.94
-212,Home,South,Debit Card,302.8
-213,Groceries,West,Debit Card,410.5
-214,Clothing,South,Credit Card,442.68
-215,Groceries,North,Credit Card,117.9
-216,Groceries,South,Mobile Pay,109.96
-217,Home,East,Credit Card,307.44
-218,Home,East,Credit Card,208.46
-219,Electronics,West,Debit Card,420.73
-220,Electronics,North,Cash,450.51
-221,Clothing,East,Credit Card,179.94
-222,Electronics,East,Cash,122.25
-223,Groceries,North,Credit Card,391.36
-224,Home,South,Credit Card,141.03
-225,Electronics,South,Mobile Pay,412.19
-226,Electronics,West,Mobile Pay,214.75
-227,Clothing,South,Mobile Pay,335.44
-228,Clothing,North,Cash,52.29
-229,Groceries,East,Debit Card,313.81
-230,Home,South,Credit Card,228.63
-231,Clothing,West,Credit Card,295.37
-232,Electronics,South,Credit Card,88.17
-233,Home,North,Cash,369.75
-234,Home,West,Mobile Pay,432.08
-235,Electronics,South,Debit Card,112.29
-236,Clothing,West,Cash,52.38
-237,Electronics,North,Mobile Pay,16.7
-238,Home,East,Cash,322.78
-239,Beauty,North,Debit Card,305.51
-240,Beauty,North,Mobile Pay,275.62
-241,Groceries,North,Cash,119.81
-242,Electronics,North,Debit Card,198.5
-243,Electronics,East,Credit Card,299.27
-244,Groceries,East,Debit Card,250.9
-245,Groceries,West,Credit Card,493.95
-246,Groceries,South,Cash,72.54
-247,Home,East,Mobile Pay,349.1
-248,Electronics,East,Mobile Pay,205.14
-249,Home,South,Cash,216.96
-250,Groceries,East,Mobile Pay,360.21
-251,Electronics,North,Mobile Pay,347.76
-252,Home,North,Credit Card,495.67
-253,Home,South,Cash,68.56
-254,Groceries,West,Debit Card,56.53
-255,Electronics,West,Credit Card,363.55
-256,Groceries,South,Cash,291.3
-257,Electronics,South,Credit Card,140.71
-258,Beauty,North,Debit Card,44.31
-259,Clothing,West,Debit Card,47.4
-260,Clothing,East,Cash,447.62
-261,Clothing,North,Debit Card,99.97
-262,Groceries,South,Credit Card,165.07
-263,Beauty,West,Debit Card,117.19
-264,Electronics,East,Credit Card,180.72
-265,Home,East,Credit Card,39.36
-266,Electronics,North,Debit Card,261.93
-267,Home,West,Cash,38.47
-268,Electronics,West,Mobile Pay,401.18
-269,Beauty,South,Debit Card,120.69
-270,Home,West,Credit Card,272.31
-271,Groceries,West,Credit Card,440.64
-272,Electronics,North,Debit Card,327.18
-273,Electronics,West,Cash,268.81
-274,Home,East,Cash,165.55
-275,Groceries,North,Credit Card,169.84
-276,Groceries,North,Credit Card,336.4
-277,Beauty,South,Cash,497.1
-278,Groceries,West,Mobile Pay,332.61
-279,Groceries,South,Debit Card,281.1
-280,Groceries,East,Credit Card,366.67
-281,Clothing,North,Credit Card,235.28
-282,Beauty,North,Cash,34.77
-283,Electronics,North,Debit Card,283.34
-284,Home,East,Cash,479.02
-285,Electronics,East,Debit Card,91.77
-286,Beauty,South,Debit Card,346.55
-287,Home,South,Debit Card,104.46
-288,Beauty,South,Credit Card,270.23
-289,Groceries,West,Mobile Pay,52.85
-290,Home,North,Cash,227.93
-291,Groceries,North,Mobile Pay,379.3
-292,Electronics,South,Cash,177.05
-293,Electronics,North,Debit Card,334.13
-294,Home,South,Credit Card,398.75
-295,Home,West,Mobile Pay,463.95
-296,Beauty,West,Credit Card,121.15
-297,Beauty,East,Cash,202.66
-298,Groceries,West,Credit Card,80.45
-299,Home,South,Credit Card,496.28
-300,Electronics,West,Mobile Pay,463.87
-301,Beauty,East,Debit Card,272.28
-302,Beauty,North,Credit Card,421.81
-303,Electronics,South,Debit Card,262.87
-304,Beauty,North,Cash,313.67
-305,Groceries,East,Credit Card,49.12
-306,Home,East,Mobile Pay,378.86
-307,Electronics,East,Cash,68.22
-308,Home,North,Cash,413.9
-309,Beauty,North,Mobile Pay,392.1
-310,Beauty,North,Credit Card,355.83
-311,Electronics,North,Credit Card,22.9
-312,Groceries,East,Cash,155.05
-313,Clothing,East,Credit Card,135.24
-314,Electronics,South,Debit Card,183.27
-315,Clothing,South,Mobile Pay,48.38
-316,Clothing,North,Debit Card,468.79
-317,Groceries,West,Credit Card,279.13
-318,Clothing,West,Cash,156.23
-319,Clothing,East,Mobile Pay,201.51
-320,Groceries,East,Credit Card,226.37
-321,Clothing,East,Credit Card,302.29
-322,Clothing,South,Cash,260.26
-323,Clothing,South,Cash,460.1
-324,Electronics,East,Debit Card,251.0
-325,Electronics,East,Mobile Pay,496.12
-326,Electronics,East,Mobile Pay,426.46
-327,Groceries,West,Cash,108.21
-328,Beauty,South,Debit Card,465.64
-329,Clothing,West,Mobile Pay,62.6
-330,Clothing,West,Cash,409.64
-331,Groceries,East,Credit Card,193.41
-332,Clothing,East,Mobile Pay,439.6
-333,Electronics,North,Debit Card,434.69
-334,Beauty,North,Debit Card,403.93
-335,Home,West,Debit Card,396.07
-336,Clothing,South,Credit Card,155.82
-337,Electronics,East,Mobile Pay,45.06
-338,Home,East,Mobile Pay,204.48
-339,Beauty,West,Credit Card,90.89
-340,Home,North,Mobile Pay,349.0
-341,Electronics,South,Credit Card,176.32
-342,Home,North,Credit Card,487.93
-343,Groceries,North,Credit Card,322.28
-344,Home,North,Debit Card,412.13
-345,Clothing,North,Mobile Pay,70.6
-346,Clothing,East,Credit Card,431.7
-347,Groceries,East,Mobile Pay,461.76
-348,Electronics,North,Debit Card,246.1
-349,Clothing,South,Credit Card,305.1
-350,Beauty,West,Cash,383.58
-351,Clothing,South,Debit Card,91.55
-352,Clothing,South,Cash,253.77
-353,Electronics,South,Mobile Pay,202.34
-354,Home,North,Mobile Pay,77.46
-355,Clothing,East,Debit Card,186.93
-356,Groceries,South,Mobile Pay,38.75
-357,Home,North,Cash,17.78
-358,Beauty,South,Credit Card,71.91
-359,Electronics,South,Credit Card,481.74
-360,Beauty,North,Credit Card,277.02
-361,Home,East,Debit Card,483.08
-362,Home,East,Mobile Pay,219.09
-363,Home,West,Cash,159.35
-364,Beauty,North,Mobile Pay,255.54
-365,Home,West,Mobile Pay,222.56
-366,Beauty,West,Mobile Pay,57.3
-367,Home,West,Credit Card,322.21
-368,Groceries,East,Cash,111.94
-369,Home,North,Cash,311.7
-370,Beauty,West,Mobile Pay,326.85
-371,Clothing,North,Credit Card,80.25
-372,Home,North,Credit Card,35.37
-373,Clothing,East,Cash,391.48
-374,Groceries,West,Credit Card,232.6
-375,Electronics,West,Credit Card,33.79
-376,Groceries,North,Credit Card,497.46
-377,Home,South,Debit Card,33.6
-378,Clothing,East,Mobile Pay,349.04
-379,Clothing,East,Cash,491.92
-380,Beauty,East,Cash,123.39
-381,Clothing,East,Debit Card,75.41
-382,Beauty,West,Mobile Pay,65.09
-383,Electronics,West,Cash,155.12
-384,Home,South,Credit Card,55.02
-385,Beauty,East,Cash,347.62
-386,Electronics,East,Credit Card,35.83
-387,Clothing,North,Debit Card,257.16
-388,Clothing,West,Credit Card,498.36
-389,Electronics,East,Cash,407.92
-390,Clothing,South,Cash,309.53
-391,Electronics,South,Cash,156.6
-392,Beauty,West,Debit Card,313.83
-393,Beauty,South,Debit Card,265.89
-394,Electronics,South,Mobile Pay,215.91
-395,Beauty,West,Cash,69.7
-396,Beauty,East,Credit Card,443.87
-397,Beauty,East,Debit Card,227.64
-398,Groceries,South,Cash,101.34
-399,Home,South,Cash,187.04
-400,Clothing,East,Debit Card,209.99
-401,Groceries,West,Mobile Pay,414.63
-402,Beauty,South,Debit Card,368.14
-403,Electronics,North,Debit Card,385.81
-404,Beauty,West,Credit Card,10.46
-405,Home,South,Credit Card,211.0
-406,Beauty,South,Mobile Pay,243.27
-407,Electronics,North,Cash,14.5
-408,Home,North,Debit Card,133.61
-409,Beauty,East,Mobile Pay,381.34
-410,Home,West,Credit Card,72.87
-411,Clothing,West,Debit Card,269.98
-412,Clothing,East,Cash,111.52
-413,Beauty,West,Credit Card,11.0
-414,Home,West,Credit Card,124.39
-415,Electronics,West,Credit Card,488.06
-416,Beauty,West,Mobile Pay,401.76
-417,Clothing,West,Cash,479.99
-418,Clothing,North,Debit Card,246.49
-419,Beauty,West,Mobile Pay,59.32
-420,Home,North,Mobile Pay,276.24
-421,Clothing,West,Mobile Pay,229.92
-422,Home,East,Credit Card,422.96
-423,Clothing,South,Cash,53.55
-424,Clothing,North,Mobile Pay,246.68
-425,Groceries,West,Debit Card,79.27
-426,Clothing,East,Cash,165.71
-427,Electronics,South,Debit Card,369.99
-428,Beauty,North,Cash,240.63
-429,Beauty,South,Debit Card,191.06
-430,Home,East,Credit Card,200.27
-431,Clothing,North,Mobile Pay,232.43
-432,Electronics,South,Debit Card,393.58
-433,Home,West,Cash,446.58
-434,Groceries,North,Mobile Pay,477.89
-435,Home,South,Mobile Pay,394.52
-436,Home,East,Cash,161.13
-437,Clothing,East,Debit Card,345.63
-438,Groceries,North,Credit Card,221.61
-439,Home,South,Credit Card,131.06
-440,Electronics,North,Debit Card,421.23
-441,Electronics,North,Mobile Pay,24.02
-442,Beauty,South,Mobile Pay,451.37
-443,Groceries,South,Mobile Pay,233.43
-444,Groceries,West,Mobile Pay,320.41
-445,Beauty,South,Debit Card,331.38
-446,Home,East,Mobile Pay,448.08
-447,Groceries,North,Cash,320.15
-448,Electronics,North,Mobile Pay,308.9
-449,Electronics,East,Credit Card,37.99
-450,Clothing,South,Mobile Pay,261.61
-451,Groceries,East,Debit Card,79.33
-452,Home,East,Credit Card,370.03
-453,Beauty,West,Debit Card,258.55
-454,Beauty,East,Debit Card,341.71
-455,Home,North,Credit Card,25.63
-456,Clothing,East,Debit Card,46.97
-457,Beauty,North,Debit Card,359.58
-458,Groceries,North,Mobile Pay,40.68
-459,Clothing,North,Cash,40.27
-460,Groceries,South,Debit Card,10.99
-461,Electronics,West,Debit Card,478.47
-462,Clothing,North,Debit Card,370.07
-463,Beauty,North,Mobile Pay,179.86
-464,Clothing,South,Cash,151.79
-465,Clothing,North,Credit Card,178.1
-466,Clothing,East,Mobile Pay,388.45
-467,Clothing,East,Mobile Pay,332.38
-468,Groceries,West,Cash,96.67
-469,Electronics,North,Cash,91.18
-470,Home,South,Mobile Pay,53.71
-471,Clothing,East,Credit Card,331.85
-472,Beauty,South,Mobile Pay,383.36
-473,Clothing,South,Cash,136.2
-474,Beauty,East,Credit Card,15.37
-475,Groceries,South,Cash,45.67
-476,Beauty,East,Credit Card,484.09
-477,Home,South,Debit Card,151.25
-478,Electronics,East,Cash,385.77
-479,Beauty,North,Cash,314.21
-480,Beauty,West,Mobile Pay,194.06
-481,Electronics,East,Cash,106.82
-482,Home,East,Cash,65.09
-483,Clothing,West,Debit Card,309.43
-484,Beauty,East,Cash,388.44
-485,Electronics,East,Debit Card,323.73
-486,Groceries,South,Debit Card,267.5
-487,Electronics,West,Debit Card,25.77
-488,Groceries,North,Debit Card,484.4
-489,Home,East,Credit Card,400.36
-490,Clothing,West,Mobile Pay,149.95
-491,Electronics,South,Credit Card,490.09
-492,Beauty,North,Cash,302.93
-493,Home,West,Credit Card,293.3
-494,Electronics,North,Credit Card,375.3
-495,Beauty,North,Cash,406.83
-496,Electronics,North,Cash,329.96
-497,Groceries,East,Cash,68.41
-498,Electronics,East,Credit Card,172.44
-499,Electronics,South,Credit Card,464.4
-500,Electronics,South,Cash,116.18
-501,Home,West,Mobile Pay,189.22
-502,Electronics,South,Mobile Pay,218.88
-503,Beauty,North,Debit Card,222.51
-504,Groceries,North,Cash,308.41
-505,Groceries,East,Debit Card,471.82
-506,Electronics,North,Mobile Pay,124.14
-507,Home,West,Debit Card,65.14
-508,Home,North,Cash,102.75
-509,Beauty,North,Cash,444.03
-510,Electronics,West,Cash,324.68
-511,Groceries,South,Credit Card,146.52
-512,Home,South,Debit Card,408.89
-513,Electronics,West,Mobile Pay,431.38
-514,Home,East,Mobile Pay,424.02
-515,Home,North,Mobile Pay,459.87
-516,Groceries,West,Credit Card,129.86
-517,Clothing,North,Credit Card,378.75
-518,Beauty,East,Cash,232.97
-519,Beauty,North,Mobile Pay,421.79
-520,Groceries,West,Credit Card,365.6
-521,Home,North,Cash,389.34
-522,Electronics,South,Mobile Pay,329.8
-523,Home,East,Debit Card,92.83
-524,Groceries,East,Cash,274.79
-525,Beauty,East,Credit Card,492.41
-526,Home,West,Credit Card,469.01
-527,Beauty,East,Cash,26.37
-528,Electronics,South,Cash,86.58
-529,Beauty,West,Credit Card,70.21
-530,Beauty,South,Debit Card,364.36
-531,Clothing,North,Mobile Pay,409.8
-532,Clothing,North,Debit Card,110.69
-533,Clothing,North,Cash,255.4
-534,Beauty,North,Debit Card,421.15
-535,Groceries,South,Credit Card,367.74
-536,Beauty,West,Cash,273.41
-537,Groceries,West,Mobile Pay,297.22
-538,Groceries,East,Credit Card,256.64
-539,Clothing,South,Credit Card,152.29
-540,Home,North,Mobile Pay,284.69
-541,Electronics,South,Mobile Pay,346.0
-542,Clothing,East,Debit Card,437.29
-543,Clothing,East,Cash,319.96
-544,Home,South,Mobile Pay,381.76
-545,Electronics,South,Mobile Pay,84.24
-546,Beauty,South,Cash,233.47
-547,Beauty,West,Mobile Pay,9.62
-548,Clothing,North,Mobile Pay,127.11
-549,Electronics,South,Debit Card,364.6
-550,Clothing,South,Credit Card,495.95
-551,Groceries,South,Credit Card,54.09
-552,Clothing,East,Credit Card,203.74
-553,Clothing,East,Credit Card,401.04
-554,Beauty,West,Mobile Pay,106.0
-555,Beauty,North,Cash,279.77
-556,Beauty,West,Cash,367.87
-557,Groceries,North,Debit Card,309.91
-558,Beauty,East,Debit Card,98.07
-559,Electronics,East,Mobile Pay,180.92
-560,Home,East,Cash,392.98
-561,Electronics,West,Cash,279.34
-562,Electronics,South,Credit Card,7.59
-563,Beauty,South,Mobile Pay,381.69
-564,Home,East,Mobile Pay,22.48
-565,Home,South,Credit Card,374.14
-566,Home,South,Mobile Pay,105.23
-567,Groceries,West,Mobile Pay,479.25
-568,Beauty,North,Debit Card,187.13
-569,Home,East,Cash,166.83
-570,Groceries,East,Mobile Pay,78.7
-571,Clothing,West,Debit Card,156.27
-572,Clothing,West,Cash,438.94
-573,Groceries,South,Credit Card,498.19
-574,Groceries,East,Debit Card,187.31
-575,Beauty,North,Debit Card,227.06
-576,Beauty,West,Cash,362.43
-577,Clothing,North,Credit Card,443.67
-578,Home,North,Debit Card,298.56
-579,Clothing,East,Mobile Pay,198.81
-580,Home,East,Mobile Pay,209.25
-581,Home,West,Mobile Pay,349.33
-582,Beauty,East,Credit Card,6.59
-583,Electronics,East,Debit Card,311.7
-584,Electronics,East,Mobile Pay,180.97
-585,Groceries,North,Credit Card,398.13
-586,Beauty,West,Mobile Pay,51.03
-587,Home,South,Cash,296.16
-588,Electronics,North,Debit Card,243.08
-589,Home,East,Debit Card,322.95
-590,Electronics,North,Credit Card,37.1
-591,Electronics,East,Credit Card,292.09
-592,Electronics,East,Debit Card,282.93
-593,Beauty,North,Mobile Pay,282.53
-594,Clothing,West,Mobile Pay,303.73
-595,Home,East,Cash,339.85
-596,Beauty,West,Mobile Pay,403.47
-597,Beauty,South,Credit Card,138.56
-598,Beauty,East,Credit Card,413.4
-599,Beauty,West,Mobile Pay,251.64
-600,Beauty,West,Credit Card,43.14
-601,Groceries,South,Debit Card,33.98
-602,Home,West,Debit Card,170.45
-603,Beauty,West,Mobile Pay,393.52
-604,Home,South,Debit Card,355.3
-605,Groceries,East,Debit Card,395.36
-606,Groceries,West,Cash,261.05
-607,Home,West,Cash,222.9
-608,Electronics,West,Debit Card,77.99
-609,Clothing,North,Mobile Pay,167.46
-610,Electronics,South,Cash,219.84
-611,Electronics,North,Credit Card,48.86
-612,Electronics,South,Credit Card,114.2
-613,Beauty,East,Credit Card,301.12
-614,Groceries,East,Mobile Pay,369.15
-615,Electronics,West,Debit Card,499.18
-616,Groceries,South,Credit Card,466.89
-617,Home,East,Mobile Pay,323.07
-618,Clothing,South,Cash,213.52
-619,Home,East,Debit Card,319.91
-620,Home,North,Cash,393.9
-621,Beauty,East,Mobile Pay,63.58
-622,Clothing,North,Credit Card,207.9
-623,Home,East,Credit Card,420.7
-624,Home,West,Mobile Pay,195.0
-625,Clothing,North,Credit Card,288.08
-626,Clothing,East,Debit Card,295.95
-627,Home,West,Mobile Pay,96.32
-628,Clothing,North,Cash,184.31
-629,Home,West,Mobile Pay,170.58
-630,Home,South,Debit Card,17.97
-631,Beauty,South,Debit Card,16.97
-632,Electronics,North,Mobile Pay,416.69
-633,Home,East,Mobile Pay,140.17
-634,Groceries,North,Credit Card,261.45
-635,Electronics,West,Debit Card,152.87
-636,Electronics,East,Mobile Pay,470.64
-637,Electronics,South,Mobile Pay,133.35
-638,Beauty,East,Debit Card,217.68
-639,Home,South,Mobile Pay,437.0
-640,Beauty,East,Credit Card,421.76
-641,Home,East,Debit Card,97.12
-642,Beauty,East,Credit Card,402.31
-643,Beauty,West,Credit Card,231.8
-644,Groceries,West,Credit Card,244.07
-645,Beauty,North,Credit Card,71.07
-646,Clothing,North,Debit Card,44.9
-647,Groceries,South,Credit Card,365.33
-648,Beauty,West,Credit Card,250.75
-649,Electronics,South,Mobile Pay,221.24
-650,Clothing,North,Debit Card,366.11
-651,Clothing,South,Debit Card,383.93
-652,Clothing,North,Cash,83.66
-653,Groceries,West,Debit Card,307.06
-654,Beauty,East,Debit Card,72.0
-655,Beauty,West,Cash,376.93
-656,Electronics,South,Debit Card,330.19
-657,Electronics,South,Debit Card,478.52
-658,Clothing,West,Debit Card,39.13
-659,Electronics,West,Debit Card,33.24
-660,Groceries,North,Cash,144.68
-661,Beauty,South,Debit Card,134.54
-662,Clothing,South,Debit Card,127.25
-663,Electronics,West,Cash,453.6
-664,Groceries,East,Mobile Pay,128.53
-665,Groceries,South,Credit Card,139.62
-666,Electronics,East,Mobile Pay,380.9
-667,Beauty,West,Cash,227.62
-668,Electronics,West,Credit Card,389.47
-669,Clothing,North,Cash,37.36
-670,Electronics,South,Cash,246.35
-671,Groceries,East,Debit Card,21.64
-672,Electronics,North,Credit Card,36.01
-673,Beauty,South,Debit Card,453.69
-674,Home,North,Credit Card,73.93
-675,Electronics,West,Cash,268.55
-676,Beauty,South,Cash,208.49
-677,Beauty,North,Mobile Pay,176.93
-678,Groceries,North,Credit Card,450.42
-679,Beauty,East,Debit Card,15.8
-680,Beauty,North,Mobile Pay,333.58
-681,Beauty,South,Mobile Pay,481.88
-682,Beauty,South,Mobile Pay,282.28
-683,Clothing,East,Debit Card,468.73
-684,Clothing,South,Mobile Pay,30.87
-685,Groceries,West,Debit Card,212.3
-686,Electronics,South,Mobile Pay,133.78
-687,Beauty,South,Debit Card,366.76
-688,Electronics,North,Cash,490.74
-689,Electronics,North,Cash,131.98
-690,Groceries,South,Cash,328.82
-691,Beauty,East,Cash,103.06
-692,Beauty,North,Cash,284.84
-693,Home,East,Mobile Pay,234.65
-694,Electronics,South,Mobile Pay,486.14
-695,Electronics,South,Mobile Pay,306.22
-696,Clothing,West,Debit Card,178.01
-697,Home,North,Debit Card,61.48
-698,Clothing,South,Debit Card,79.87
-699,Clothing,West,Debit Card,116.53
-700,Clothing,North,Cash,129.23
-701,Groceries,South,Cash,426.05
-702,Groceries,South,Cash,282.81
-703,Clothing,North,Credit Card,264.08
-704,Home,North,Mobile Pay,61.81
-705,Electronics,North,Debit Card,430.77
-706,Home,South,Debit Card,362.79
-707,Beauty,South,Cash,38.5
-708,Groceries,West,Debit Card,355.38
-709,Electronics,East,Debit Card,274.05
-710,Electronics,North,Mobile Pay,45.45
-711,Beauty,South,Cash,231.86
-712,Beauty,South,Mobile Pay,244.92
-713,Clothing,North,Credit Card,87.06
-714,Groceries,East,Credit Card,473.12
-715,Groceries,North,Credit Card,425.74
-716,Home,East,Cash,336.17
-717,Clothing,South,Debit Card,233.84
-718,Clothing,East,Cash,208.82
-719,Clothing,West,Cash,327.23
-720,Clothing,South,Debit Card,274.99
-721,Groceries,West,Mobile Pay,35.83
-722,Groceries,North,Credit Card,258.69
-723,Clothing,North,Mobile Pay,404.17
-724,Home,North,Credit Card,232.32
-725,Electronics,East,Cash,30.72
-726,Electronics,South,Credit Card,394.21
-727,Home,North,Cash,104.68
-728,Clothing,North,Mobile Pay,133.02
-729,Groceries,South,Cash,86.53
-730,Electronics,North,Mobile Pay,168.46
-731,Beauty,West,Debit Card,379.59
-732,Beauty,South,Debit Card,262.1
-733,Home,South,Debit Card,106.42
-734,Clothing,South,Cash,439.53
-735,Electronics,West,Debit Card,440.39
-736,Clothing,South,Credit Card,435.94
-737,Electronics,West,Mobile Pay,123.2
-738,Home,South,Mobile Pay,228.36
-739,Home,East,Credit Card,492.57
-740,Beauty,North,Cash,387.15
-741,Clothing,East,Cash,18.45
-742,Beauty,North,Mobile Pay,37.28
-743,Clothing,West,Debit Card,234.65
-744,Beauty,East,Cash,455.06
-745,Groceries,South,Cash,271.66
-746,Groceries,North,Credit Card,251.42
-747,Groceries,North,Credit Card,57.21
-748,Groceries,East,Debit Card,330.11
-749,Electronics,West,Cash,411.94
-750,Groceries,East,Cash,193.31
+CustomerID,TransactionID,Category,Region,PaymentMethod,Amount
+8270,1,Electronics,North,Credit Card,231.8
+1860,2,Electronics,East,Mobile Pay,244.07
+6390,3,Clothing,West,Cash,71.07
+6191,4,Home,North,Mobile Pay,44.9
+6734,5,Electronics,North,Credit Card,365.33
+7265,6,Electronics,West,Mobile Pay,250.75
+1466,7,Beauty,West,Debit Card,221.24
+5426,8,Home,South,Mobile Pay,366.11
+6578,9,Electronics,East,Debit Card,383.93
+9322,10,Home,West,Cash,83.66
+2685,11,Clothing,West,Debit Card,307.06
+1769,12,Groceries,East,Mobile Pay,72.0
+7949,13,Electronics,West,Credit Card,376.93
+3433,14,Beauty,West,Debit Card,330.19
+6311,15,Clothing,South,Cash,478.52
+6051,16,Home,North,Debit Card,39.13
+7420,17,Clothing,North,Debit Card,33.24
+2184,18,Electronics,North,Debit Card,144.68
+5555,19,Home,North,Cash,134.54
+4385,20,Groceries,West,Mobile Pay,127.25
+7396,21,Clothing,East,Debit Card,453.6
+9666,22,Electronics,East,Debit Card,128.53
+3558,23,Beauty,South,Credit Card,139.62
+8849,24,Home,South,Cash,380.9
+3047,25,Clothing,West,Debit Card,227.62
+3747,26,Clothing,East,Cash,389.47
+1189,27,Groceries,East,Debit Card,37.36
+3734,28,Groceries,North,Mobile Pay,246.35
+4005,29,Beauty,West,Mobile Pay,21.64
+5658,30,Beauty,West,Debit Card,36.01
+2899,31,Electronics,North,Mobile Pay,453.69
+8734,32,Electronics,West,Debit Card,73.93
+2267,33,Beauty,West,Mobile Pay,268.55
+2528,34,Beauty,South,Credit Card,208.49
+4556,35,Home,East,Credit Card,176.93
+4890,36,Groceries,West,Credit Card,450.42
+9838,37,Electronics,South,Cash,15.8
+6393,38,Groceries,East,Cash,333.58
+9792,39,Groceries,North,Credit Card,481.88
+9433,40,Beauty,South,Cash,282.28
+8513,41,Home,South,Mobile Pay,468.73
+3612,42,Clothing,East,Debit Card,30.87
+8041,43,Home,North,Debit Card,212.3
+7235,44,Home,South,Debit Card,133.78
+6486,45,Groceries,West,Credit Card,366.76
+8099,46,Home,West,Cash,490.74
+1775,47,Electronics,West,Mobile Pay,131.98
+9226,48,Groceries,North,Mobile Pay,328.82
+4152,49,Electronics,South,Credit Card,103.06
+2585,50,Clothing,West,Mobile Pay,284.84
+4943,51,Groceries,North,Mobile Pay,234.65
+8555,52,Clothing,West,Mobile Pay,486.14
+4073,53,Groceries,East,Mobile Pay,306.22
+2021,54,Beauty,South,Cash,178.01
+4843,55,Home,South,Mobile Pay,61.48
+8989,56,Beauty,North,Debit Card,79.87
+7873,57,Clothing,North,Credit Card,116.53
+6675,58,Home,South,Cash,129.23
+1161,59,Groceries,West,Mobile Pay,426.05
+5297,60,Home,West,Cash,282.81
+1995,61,Electronics,East,Mobile Pay,264.08
+8629,62,Home,West,Debit Card,61.81
+2016,63,Electronics,North,Credit Card,430.77
+8869,64,Home,North,Mobile Pay,362.79
+7439,65,Electronics,West,Mobile Pay,38.5
+8892,66,Clothing,North,Mobile Pay,355.38
+7863,67,Beauty,South,Mobile Pay,274.05
+8916,68,Groceries,South,Credit Card,45.45
+9529,69,Home,West,Credit Card,231.86
+1878,70,Beauty,South,Debit Card,244.92
+5887,71,Groceries,South,Credit Card,87.06
+5859,72,Groceries,East,Mobile Pay,473.12
+7331,73,Electronics,East,Debit Card,425.74
+9571,74,Clothing,South,Debit Card,336.17
+9684,75,Clothing,West,Debit Card,233.84
+8208,76,Beauty,East,Mobile Pay,208.82
+6276,77,Clothing,North,Cash,327.23
+3062,78,Home,North,Mobile Pay,274.99
+1064,79,Clothing,North,Credit Card,35.83
+9006,80,Beauty,West,Credit Card,258.69
+3568,81,Clothing,South,Mobile Pay,404.17
+6463,82,Home,North,Mobile Pay,232.32
+3027,83,Electronics,West,Debit Card,30.72
+3695,84,Beauty,East,Mobile Pay,394.21
+6258,85,Electronics,South,Debit Card,104.68
+6618,86,Electronics,East,Credit Card,133.02
+7736,87,Electronics,West,Debit Card,86.53
+1391,88,Groceries,North,Mobile Pay,168.46
+6892,89,Groceries,North,Credit Card,379.59
+4561,90,Electronics,West,Cash,262.1
+7184,91,Beauty,North,Debit Card,106.42
+4099,92,Home,South,Credit Card,439.53
+7278,93,Home,West,Debit Card,440.39
+9392,94,Clothing,East,Credit Card,435.94
+4104,95,Beauty,West,Credit Card,123.2
+8215,96,Groceries,South,Debit Card,228.36
+3454,97,Electronics,South,Cash,492.57
+9996,98,Clothing,West,Credit Card,387.15
+3731,99,Home,West,Credit Card,18.45
+9154,100,Groceries,North,Credit Card,37.28
+6056,101,Groceries,South,Cash,234.65
+9110,102,Electronics,West,Cash,455.06
+4840,103,Home,West,Mobile Pay,271.66
+2028,104,Beauty,South,Debit Card,251.42
+8385,105,Groceries,West,Cash,57.21
+1502,106,Electronics,North,Debit Card,330.11
+7910,107,Beauty,South,Mobile Pay,411.94
+7938,108,Home,North,Debit Card,193.31
+5488,109,Groceries,North,Cash,388.93
+1206,110,Beauty,North,Debit Card,482.42
+6134,111,Beauty,North,Cash,105.86
+6977,112,Beauty,South,Debit Card,264.05
+8721,113,Groceries,North,Cash,147.13
+8035,114,Groceries,North,Cash,397.46
+2484,115,Clothing,West,Debit Card,290.91
+8858,116,Home,South,Mobile Pay,319.12
+1863,117,Electronics,South,Credit Card,399.97
+3790,118,Beauty,East,Mobile Pay,201.01
+8408,119,Clothing,South,Debit Card,457.97
+9755,120,Electronics,South,Mobile Pay,268.85
+6116,121,Clothing,East,Cash,83.19
+7019,122,Groceries,South,Credit Card,349.47
+2757,123,Beauty,South,Debit Card,397.66
+8574,124,Electronics,South,Debit Card,161.8
+7374,125,Electronics,South,Debit Card,429.3
+7892,126,Electronics,East,Credit Card,453.54
+2678,127,Electronics,South,Cash,142.07
+4242,128,Electronics,South,Debit Card,491.84
+5636,129,Clothing,East,Mobile Pay,74.65
+2059,130,Beauty,West,Debit Card,105.0
+7668,131,Groceries,North,Debit Card,96.19
+4157,132,Groceries,West,Debit Card,447.52
+6915,133,Groceries,East,Debit Card,328.87
+3693,134,Groceries,North,Cash,80.29
+4627,135,Clothing,East,Mobile Pay,222.96
+6450,136,Home,East,Cash,309.57
+2663,137,Beauty,South,Mobile Pay,46.31
+6592,138,Electronics,North,Debit Card,441.8
+8392,139,Home,South,Credit Card,402.78
+2306,140,Groceries,North,Cash,255.08
+7776,141,Home,East,Credit Card,483.73
+6864,142,Beauty,East,Cash,211.79
+8526,143,Electronics,West,Debit Card,492.13
+9901,144,Electronics,North,Cash,335.62
+6575,145,Beauty,South,Debit Card,319.16
+6530,146,Beauty,West,Cash,87.15
+5413,147,Groceries,West,Debit Card,441.55
+4748,148,Electronics,West,Debit Card,216.61
+1663,149,Home,South,Mobile Pay,85.31
+2998,150,Clothing,West,Debit Card,11.24
+8994,151,Clothing,South,Mobile Pay,282.08
+2495,152,Beauty,West,Debit Card,266.06
+4304,153,Groceries,South,Credit Card,361.08
+4763,154,Clothing,East,Debit Card,445.68
+6232,155,Electronics,East,Credit Card,44.31
+2853,156,Beauty,East,Credit Card,367.09
+7585,157,Home,East,Debit Card,97.77
+2291,158,Beauty,East,Credit Card,429.8
+4581,159,Home,West,Mobile Pay,410.44
+8554,160,Beauty,West,Cash,272.69
+8280,161,Beauty,West,Debit Card,356.57
+2636,162,Beauty,South,Credit Card,160.6
+4696,163,Home,South,Debit Card,238.23
+1698,164,Home,South,Mobile Pay,411.71
+5737,165,Beauty,South,Debit Card,232.34
+1854,166,Clothing,East,Debit Card,182.11
+9164,167,Groceries,East,Credit Card,249.64
+6855,168,Groceries,East,Mobile Pay,414.98
+8392,169,Groceries,North,Cash,170.93
+7528,170,Home,West,Cash,91.01
+6249,171,Home,South,Credit Card,357.45
+6172,172,Clothing,South,Debit Card,413.86
+2707,173,Groceries,East,Credit Card,54.82
+6791,174,Groceries,South,Credit Card,123.74
+6535,175,Beauty,South,Credit Card,75.28
+5931,176,Home,West,Debit Card,177.23
+4510,177,Groceries,East,Mobile Pay,227.92
+1202,178,Clothing,West,Credit Card,375.67
+5218,179,Clothing,North,Debit Card,327.32
+9958,180,Groceries,North,Mobile Pay,312.36
+5389,181,Home,North,Credit Card,179.43
+3327,182,Clothing,East,Cash,421.52
+9004,183,Beauty,South,Mobile Pay,238.29
+3931,184,Clothing,East,Credit Card,489.66
+8777,185,Electronics,East,Mobile Pay,318.9
+1197,186,Electronics,South,Mobile Pay,67.5
+8125,187,Home,West,Mobile Pay,339.71
+2930,188,Groceries,North,Mobile Pay,165.93
+7287,189,Home,West,Mobile Pay,344.73
+9800,190,Home,North,Mobile Pay,39.47
+5282,191,Home,East,Credit Card,91.57
+3511,192,Home,North,Cash,428.59
+1659,193,Beauty,East,Debit Card,117.45
+3811,194,Beauty,West,Mobile Pay,419.34
+8098,195,Clothing,East,Debit Card,143.24
+7546,196,Electronics,West,Credit Card,323.23
+2986,197,Home,South,Mobile Pay,348.6
+9338,198,Clothing,South,Cash,258.76
+3911,199,Electronics,South,Debit Card,156.13
+2734,200,Groceries,East,Mobile Pay,110.26
+2843,201,Beauty,South,Credit Card,21.43
+9680,202,Electronics,North,Cash,155.45
+3976,203,Groceries,West,Debit Card,328.32
+2959,204,Electronics,West,Debit Card,469.46
+6759,205,Beauty,North,Mobile Pay,436.25
+7694,206,Beauty,East,Cash,384.2
+3385,207,Clothing,East,Cash,395.28
+5736,208,Home,West,Cash,334.17
+2802,209,Electronics,South,Cash,133.84
+9155,210,Electronics,East,Credit Card,454.06
+9120,211,Groceries,East,Cash,337.01
+7616,212,Beauty,North,Debit Card,282.42
+6534,213,Electronics,North,Debit Card,59.94
+5061,214,Beauty,South,Credit Card,226.29
+1262,215,Electronics,East,Debit Card,232.88
+7287,216,Clothing,East,Debit Card,432.96
+9815,217,Home,North,Cash,275.59
+3049,218,Electronics,East,Debit Card,193.3
+6423,219,Beauty,West,Credit Card,488.52
+5548,220,Clothing,North,Cash,59.81
+4108,221,Electronics,South,Mobile Pay,214.16
+8158,222,Groceries,North,Cash,25.8
+8400,223,Home,East,Credit Card,371.25
+4170,224,Electronics,South,Cash,459.45
+3255,225,Clothing,North,Cash,143.62
+2154,226,Groceries,West,Credit Card,429.88
+5499,227,Clothing,West,Cash,149.65
+7295,228,Clothing,North,Credit Card,455.83
+7197,229,Groceries,West,Credit Card,378.21
+2648,230,Clothing,West,Mobile Pay,403.43
+6539,231,Groceries,West,Debit Card,13.91
+5199,232,Electronics,South,Debit Card,481.59
+9445,233,Groceries,West,Cash,364.7
+3557,234,Groceries,West,Cash,155.85
+6592,235,Home,West,Mobile Pay,415.55
+1098,236,Groceries,South,Mobile Pay,144.35
+3200,237,Groceries,North,Mobile Pay,437.01
+3961,238,Electronics,East,Credit Card,60.73
+5973,239,Home,West,Mobile Pay,353.32
+5433,240,Beauty,North,Mobile Pay,272.65
+3869,241,Electronics,West,Cash,52.78
+1956,242,Electronics,South,Mobile Pay,124.74
+9352,243,Beauty,North,Credit Card,11.14
+6699,244,Groceries,South,Credit Card,237.04
+7944,245,Clothing,West,Cash,154.13
+5493,246,Home,West,Mobile Pay,301.19
+5911,247,Clothing,South,Mobile Pay,152.13
+4987,248,Beauty,East,Credit Card,153.46
+7015,249,Electronics,South,Mobile Pay,372.88
+2218,250,Electronics,West,Mobile Pay,28.83
+5496,251,Home,South,Mobile Pay,451.93
+5735,252,Electronics,East,Debit Card,426.87
+5555,253,Electronics,South,Cash,335.56
+9050,254,Home,East,Debit Card,298.64
+4446,255,Home,East,Cash,446.69
+2045,256,Beauty,South,Credit Card,96.74
+7893,257,Electronics,South,Mobile Pay,44.09
+2693,258,Electronics,North,Cash,123.56
+4436,259,Beauty,West,Debit Card,398.32
+9754,260,Groceries,East,Mobile Pay,22.16
+6895,261,Groceries,North,Credit Card,293.49
+4354,262,Groceries,South,Cash,497.74
+1225,263,Beauty,West,Cash,428.57
+5893,264,Electronics,North,Cash,263.12
+8022,265,Beauty,East,Mobile Pay,36.5
+6600,266,Beauty,North,Debit Card,416.53
+8996,267,Groceries,East,Debit Card,301.49
+8683,268,Clothing,South,Cash,61.89
+5642,269,Electronics,West,Credit Card,51.46
+8679,270,Groceries,West,Credit Card,455.27
+9208,271,Clothing,West,Debit Card,336.25
+8339,272,Clothing,South,Credit Card,415.5
+3205,273,Home,East,Debit Card,440.09
+2069,274,Electronics,South,Cash,288.03
+4444,275,Clothing,West,Debit Card,261.14
+2060,276,Groceries,South,Debit Card,218.06
+3327,277,Home,South,Cash,161.89
+4420,278,Electronics,South,Credit Card,220.13
+1301,279,Beauty,East,Debit Card,388.07
+1606,280,Groceries,North,Debit Card,302.95
+4170,281,Clothing,North,Cash,446.8
+1699,282,Clothing,South,Credit Card,224.47
+6088,283,Groceries,North,Debit Card,305.51
+1190,284,Clothing,North,Cash,317.5
+1980,285,Home,South,Debit Card,297.89
+3975,286,Electronics,South,Mobile Pay,352.8
+7102,287,Home,West,Cash,122.53
+2184,288,Clothing,North,Credit Card,258.62
+4327,289,Beauty,East,Credit Card,56.59
+4394,290,Electronics,South,Credit Card,195.33
+9319,291,Electronics,West,Credit Card,246.4
+2816,292,Groceries,East,Debit Card,327.85
+6854,293,Groceries,North,Debit Card,475.51
+7709,294,Beauty,West,Credit Card,302.32
+1569,295,Electronics,South,Credit Card,373.08
+6442,296,Beauty,East,Credit Card,255.6
+2895,297,Groceries,South,Debit Card,318.88
+3733,298,Groceries,North,Credit Card,40.11
+4863,299,Electronics,East,Credit Card,130.92
+8455,300,Home,North,Mobile Pay,184.12
+5014,301,Clothing,North,Mobile Pay,238.88
+2686,302,Groceries,West,Credit Card,27.6
+4009,303,Groceries,South,Cash,74.31
+8806,304,Home,East,Credit Card,142.02
+1154,305,Home,North,Mobile Pay,485.91
+2409,306,Beauty,North,Cash,169.02
+1784,307,Beauty,East,Cash,243.61
+9096,308,Clothing,North,Credit Card,102.07
+8560,309,Clothing,West,Mobile Pay,307.34
+8343,310,Electronics,West,Mobile Pay,143.94
+8206,311,Beauty,West,Cash,107.46
+6596,312,Groceries,West,Credit Card,260.7
+6801,313,Beauty,North,Debit Card,7.73
+3806,314,Groceries,East,Debit Card,8.79
+1537,315,Home,East,Mobile Pay,113.44
+6986,316,Beauty,East,Debit Card,23.18
+2841,317,Home,East,Mobile Pay,58.47
+9716,318,Clothing,South,Mobile Pay,172.74
+7971,319,Clothing,East,Mobile Pay,402.28
+6625,320,Electronics,South,Debit Card,288.16
+3950,321,Beauty,South,Mobile Pay,258.77
+8992,322,Home,West,Cash,150.28
+5780,323,Groceries,South,Credit Card,466.22
+3368,324,Clothing,North,Credit Card,201.52
+7655,325,Clothing,South,Mobile Pay,48.11
+9173,326,Groceries,West,Credit Card,310.45
+5495,327,Home,South,Debit Card,61.35
+7002,328,Home,North,Debit Card,175.89
+7614,329,Beauty,North,Credit Card,256.17
+6919,330,Beauty,North,Debit Card,437.74
+1853,331,Electronics,West,Credit Card,249.31
+5146,332,Clothing,West,Credit Card,352.62
+4769,333,Beauty,East,Credit Card,496.44
+1574,334,Home,West,Mobile Pay,70.09
+2148,335,Groceries,North,Credit Card,140.99
+7293,336,Home,North,Mobile Pay,200.32
+7457,337,Clothing,West,Credit Card,213.8
+8509,338,Home,South,Credit Card,208.46
+5777,339,Electronics,West,Credit Card,454.27
+4854,340,Clothing,West,Debit Card,358.45
+3491,341,Groceries,North,Mobile Pay,305.91
+4124,342,Electronics,East,Mobile Pay,158.14
+6691,343,Clothing,North,Credit Card,412.78
+4051,344,Groceries,East,Credit Card,477.75
+1004,345,Electronics,North,Debit Card,411.49
+6222,346,Electronics,West,Debit Card,5.77
+6315,347,Clothing,North,Debit Card,320.02
+5869,348,Beauty,North,Mobile Pay,30.31
+1876,349,Electronics,North,Mobile Pay,132.52
+8027,350,Electronics,West,Mobile Pay,34.46
+5142,351,Groceries,West,Credit Card,303.88
+7966,352,Home,West,Mobile Pay,344.86
+8079,353,Clothing,West,Cash,61.67
+8987,354,Clothing,East,Cash,195.0
+7799,355,Beauty,East,Debit Card,230.84
+5465,356,Beauty,South,Mobile Pay,187.68
+1635,357,Clothing,West,Cash,64.91
+2693,358,Beauty,East,Debit Card,212.38
+5752,359,Groceries,North,Mobile Pay,376.83
+9311,360,Clothing,West,Credit Card,40.15
+1830,361,Beauty,South,Cash,44.69
+6177,362,Clothing,South,Credit Card,180.61
+9932,363,Home,South,Mobile Pay,471.15
+9308,364,Electronics,North,Cash,335.94
+6949,365,Clothing,East,Mobile Pay,340.94
+3838,366,Electronics,North,Credit Card,184.15
+2150,367,Beauty,West,Cash,298.86
+8560,368,Electronics,South,Credit Card,10.01
+2931,369,Clothing,North,Mobile Pay,319.87
+2664,370,Home,North,Mobile Pay,457.08
+2081,371,Beauty,East,Credit Card,308.22
+1512,372,Clothing,East,Cash,437.48
+8805,373,Beauty,South,Credit Card,363.37
+6237,374,Groceries,North,Mobile Pay,64.68
+1559,375,Electronics,North,Credit Card,451.71
+4672,376,Groceries,East,Mobile Pay,37.89
+8404,377,Clothing,North,Credit Card,269.31
+4343,378,Home,North,Cash,75.36
+5070,379,Beauty,North,Cash,10.79
+1580,380,Electronics,East,Credit Card,213.91
+8004,381,Beauty,South,Credit Card,151.05
+9130,382,Clothing,West,Cash,245.57
+4147,383,Beauty,South,Mobile Pay,290.71
+5249,384,Electronics,West,Cash,26.65
+2679,385,Clothing,North,Mobile Pay,65.89
+4506,386,Beauty,South,Credit Card,281.53
+8253,387,Home,West,Credit Card,174.87
+3744,388,Clothing,East,Mobile Pay,365.94
+6188,389,Clothing,East,Credit Card,327.88
+3141,390,Home,South,Mobile Pay,423.57
+7617,391,Groceries,South,Debit Card,347.78
+3479,392,Electronics,North,Cash,217.82
+7484,393,Groceries,South,Debit Card,338.12
+8421,394,Beauty,North,Mobile Pay,141.31
+5452,395,Home,North,Cash,156.63
+6881,396,Groceries,East,Mobile Pay,395.55
+7665,397,Clothing,East,Cash,225.98
+3849,398,Beauty,West,Cash,400.2
+8390,399,Beauty,East,Cash,412.1
+7905,400,Groceries,East,Cash,429.49
+3489,401,Groceries,South,Mobile Pay,458.73
+5611,402,Home,East,Cash,218.34
+3839,403,Electronics,West,Cash,162.84
+9527,404,Groceries,South,Debit Card,293.19
+6878,405,Groceries,West,Credit Card,188.73
+7303,406,Clothing,East,Credit Card,302.53
+1851,407,Beauty,West,Debit Card,354.27
+2687,408,Electronics,South,Debit Card,345.76
+7833,409,Clothing,North,Mobile Pay,190.4
+3427,410,Home,West,Mobile Pay,87.6
+5000,411,Home,West,Mobile Pay,218.11
+6052,412,Groceries,South,Debit Card,75.58
+3738,413,Groceries,South,Debit Card,445.6
+6732,414,Home,West,Cash,176.21
+6387,415,Groceries,East,Mobile Pay,81.46
+9002,416,Electronics,West,Mobile Pay,17.6
+6536,417,Groceries,South,Mobile Pay,324.68
+4913,418,Beauty,North,Credit Card,320.27
+2066,419,Groceries,North,Cash,173.6
+8723,420,Clothing,East,Mobile Pay,40.5
+5380,421,Electronics,West,Mobile Pay,207.77
+5107,422,Clothing,North,Mobile Pay,159.05
+6726,423,Clothing,West,Credit Card,340.17
+4373,424,Beauty,South,Credit Card,304.86
+9945,425,Electronics,North,Debit Card,185.47
+3082,426,Electronics,East,Cash,112.86
+9967,427,Electronics,South,Debit Card,494.08
+7748,428,Electronics,East,Cash,229.73
+1417,429,Electronics,South,Credit Card,345.7
+9306,430,Beauty,North,Mobile Pay,74.57
+9808,431,Groceries,East,Debit Card,245.37
+4974,432,Clothing,East,Mobile Pay,18.63
+4267,433,Electronics,South,Debit Card,255.2
+1825,434,Groceries,East,Credit Card,482.19
+8668,435,Groceries,South,Credit Card,195.18
+6745,436,Clothing,South,Credit Card,24.3
+1412,437,Beauty,South,Debit Card,20.32
+8543,438,Home,South,Cash,197.05
+8587,439,Home,North,Debit Card,84.21
+1728,440,Groceries,South,Cash,16.56
+8164,441,Clothing,West,Debit Card,379.33
+9867,442,Home,East,Debit Card,231.97
+6988,443,Groceries,West,Credit Card,148.18
+3504,444,Beauty,North,Mobile Pay,450.54
+3967,445,Home,West,Mobile Pay,62.49
+3786,446,Groceries,East,Cash,478.18
+2122,447,Groceries,West,Mobile Pay,160.41
+5079,448,Electronics,North,Debit Card,444.76
+2571,449,Beauty,South,Debit Card,303.46
+6073,450,Electronics,West,Credit Card,414.22
+6104,451,Clothing,North,Credit Card,492.09
+3143,452,Electronics,North,Mobile Pay,147.76
+7806,453,Electronics,East,Cash,480.76
+8357,454,Home,East,Mobile Pay,197.79
+4440,455,Groceries,West,Mobile Pay,195.83
+4766,456,Beauty,South,Mobile Pay,173.49
+6644,457,Electronics,North,Mobile Pay,273.0
+3914,458,Beauty,West,Debit Card,81.3
+5968,459,Electronics,North,Cash,279.09
+6917,460,Clothing,North,Debit Card,273.14
+9787,461,Electronics,South,Cash,382.14
+1728,462,Home,South,Credit Card,417.66
+2365,463,Groceries,West,Mobile Pay,223.02
+5492,464,Clothing,South,Debit Card,154.65
+1698,465,Electronics,South,Cash,133.37
+8186,466,Beauty,West,Credit Card,101.34
+1395,467,Clothing,South,Credit Card,33.54
+8400,468,Clothing,East,Mobile Pay,174.51
+9082,469,Electronics,North,Cash,138.77
+5171,470,Clothing,North,Debit Card,483.38
+5360,471,Beauty,North,Mobile Pay,281.07
+3502,472,Clothing,North,Debit Card,176.9
+1717,473,Beauty,West,Credit Card,292.33
+3782,474,Electronics,North,Debit Card,73.9
+5946,475,Groceries,North,Debit Card,224.8
+6486,476,Clothing,North,Mobile Pay,314.99
+9335,477,Groceries,North,Debit Card,247.0
+5980,478,Beauty,East,Mobile Pay,203.88
+8266,479,Clothing,North,Credit Card,496.95
+5491,480,Home,East,Mobile Pay,440.76
+8192,481,Groceries,West,Mobile Pay,313.59
+6588,482,Clothing,South,Cash,286.84
+8651,483,Groceries,North,Debit Card,312.23
+4636,484,Clothing,South,Credit Card,104.65
+2167,485,Electronics,South,Mobile Pay,200.59
+2062,486,Groceries,West,Credit Card,24.53
+3156,487,Home,South,Cash,240.4
+8860,488,Home,East,Debit Card,273.8
+6161,489,Beauty,South,Mobile Pay,117.74
+6305,490,Clothing,South,Debit Card,482.19
+7541,491,Groceries,South,Cash,455.18
+5729,492,Beauty,North,Cash,362.46
+8330,493,Groceries,North,Credit Card,269.03
+6334,494,Clothing,East,Mobile Pay,435.63
+9924,495,Home,East,Credit Card,69.67
+5330,496,Electronics,North,Cash,396.3
+9010,497,Home,East,Debit Card,66.79
+7801,498,Beauty,North,Credit Card,398.13
+5846,499,Electronics,West,Credit Card,141.5
+7731,500,Beauty,South,Debit Card,439.16
+8241,501,Clothing,South,Credit Card,472.3
+1953,502,Electronics,East,Debit Card,78.65
+3539,503,Beauty,North,Mobile Pay,234.02
+8056,504,Clothing,North,Debit Card,490.59
+2542,505,Home,East,Mobile Pay,244.29
+6293,506,Clothing,North,Debit Card,432.46
+2191,507,Groceries,West,Cash,296.42
+7313,508,Clothing,South,Cash,190.79
+7938,509,Clothing,East,Mobile Pay,146.46
+3681,510,Groceries,East,Mobile Pay,105.6
+2540,511,Beauty,North,Cash,382.09
+7172,512,Beauty,East,Mobile Pay,196.34
+6541,513,Clothing,West,Debit Card,258.08
+2365,514,Groceries,North,Debit Card,248.7
+9691,515,Groceries,North,Cash,290.75
+9702,516,Home,North,Credit Card,433.46
+8494,517,Beauty,North,Debit Card,490.47
+5312,518,Electronics,West,Mobile Pay,206.75
+2324,519,Beauty,North,Credit Card,414.62
+4141,520,Beauty,East,Credit Card,383.44
+8419,521,Home,West,Debit Card,288.9
+4486,522,Electronics,South,Debit Card,478.24
+2810,523,Home,South,Credit Card,104.23
+7588,524,Electronics,East,Credit Card,59.09
+3923,525,Clothing,East,Cash,427.71
+6301,526,Electronics,West,Mobile Pay,222.38
+5186,527,Home,South,Cash,424.25
+9905,528,Beauty,South,Debit Card,447.08
+6977,529,Electronics,South,Cash,35.92
+5268,530,Electronics,South,Cash,442.32
+5748,531,Groceries,South,Cash,226.92
+5849,532,Beauty,North,Cash,257.66
+4709,533,Clothing,East,Mobile Pay,315.16
+7619,534,Home,North,Mobile Pay,463.56
+9647,535,Clothing,South,Credit Card,14.46
+4072,536,Beauty,West,Debit Card,241.04
+7530,537,Electronics,West,Cash,345.42
+1504,538,Electronics,South,Credit Card,362.74
+2214,539,Beauty,South,Credit Card,347.8
+2531,540,Electronics,West,Credit Card,71.55
+8576,541,Electronics,North,Mobile Pay,153.2
+1823,542,Electronics,North,Cash,182.56
+1928,543,Home,South,Cash,403.2
+6029,544,Home,North,Debit Card,142.99
+1133,545,Groceries,West,Cash,109.3
+3105,546,Clothing,North,Cash,478.94
+4627,547,Beauty,South,Credit Card,9.39
+7316,548,Beauty,West,Debit Card,498.92
+2852,549,Beauty,North,Cash,340.03
+5910,550,Groceries,East,Mobile Pay,415.09
+5175,551,Home,West,Cash,150.84
+6348,552,Groceries,West,Credit Card,12.09
+7190,553,Beauty,East,Mobile Pay,370.25
+2256,554,Clothing,East,Credit Card,417.9
+4376,555,Electronics,West,Cash,371.54
+6645,556,Home,East,Mobile Pay,75.71
+4486,557,Home,South,Debit Card,377.95
+4584,558,Groceries,South,Debit Card,385.62
+9053,559,Home,South,Mobile Pay,330.98
+4330,560,Beauty,West,Mobile Pay,384.23
+3703,561,Beauty,East,Credit Card,423.73
+9662,562,Groceries,East,Mobile Pay,308.73
+9120,563,Beauty,North,Credit Card,48.86
+8114,564,Clothing,North,Cash,246.38
+2353,565,Groceries,East,Credit Card,43.44
+6063,566,Clothing,East,Mobile Pay,206.73
+9549,567,Electronics,East,Mobile Pay,206.52
+8575,568,Clothing,West,Cash,37.67
+1667,569,Electronics,East,Mobile Pay,177.67
+5468,570,Electronics,North,Mobile Pay,59.94
+7819,571,Clothing,West,Debit Card,405.08
+4719,572,Groceries,East,Debit Card,474.11
+3745,573,Beauty,North,Cash,40.8
+8483,574,Beauty,West,Credit Card,477.78
+1539,575,Electronics,East,Debit Card,263.68
+5964,576,Electronics,East,Credit Card,153.29
+5835,577,Groceries,East,Mobile Pay,43.05
+4775,578,Home,West,Debit Card,252.81
+7042,579,Clothing,North,Cash,398.29
+8102,580,Electronics,North,Cash,355.01
+8312,581,Beauty,South,Cash,29.86
+6320,582,Groceries,East,Debit Card,41.09
+7132,583,Clothing,South,Credit Card,204.42
+8891,584,Groceries,South,Mobile Pay,151.17
+3779,585,Clothing,North,Credit Card,120.03
+1924,586,Clothing,West,Credit Card,144.1
+2581,587,Electronics,West,Mobile Pay,402.72
+8714,588,Groceries,North,Mobile Pay,464.97
+4324,589,Groceries,West,Debit Card,205.53
+6713,590,Beauty,South,Debit Card,453.52
+8026,591,Beauty,East,Debit Card,164.14
+1255,592,Electronics,North,Debit Card,240.84
+5804,593,Electronics,East,Debit Card,116.88
+2838,594,Home,West,Mobile Pay,322.04
+1009,595,Beauty,East,Credit Card,489.6
+3871,596,Clothing,West,Debit Card,303.73
+9989,597,Groceries,West,Debit Card,182.12
+8409,598,Electronics,South,Credit Card,325.67
+8418,599,Groceries,West,Debit Card,65.85
+6124,600,Groceries,South,Credit Card,444.89
+2015,601,Home,South,Credit Card,254.03
+3193,602,Beauty,South,Mobile Pay,227.43
+9415,603,Electronics,North,Cash,295.0
+8449,604,Groceries,North,Mobile Pay,314.27
+5158,605,Electronics,West,Cash,40.53
+4925,606,Clothing,South,Cash,342.9
+7970,607,Home,North,Cash,124.76
+7938,608,Clothing,South,Debit Card,358.41
+5784,609,Electronics,East,Mobile Pay,412.15
+5000,610,Electronics,East,Cash,402.96
+2633,611,Beauty,East,Credit Card,278.49
+8266,612,Groceries,West,Debit Card,262.48
+9702,613,Groceries,South,Mobile Pay,75.72
+1384,614,Clothing,East,Cash,388.8
+1404,615,Home,North,Credit Card,139.35
+9175,616,Groceries,East,Mobile Pay,250.86
+3000,617,Beauty,East,Mobile Pay,145.72
+6989,618,Clothing,East,Debit Card,71.25
+2460,619,Clothing,West,Mobile Pay,316.63
+8190,620,Beauty,North,Debit Card,31.89
+8140,621,Home,South,Cash,375.58
+4636,622,Beauty,North,Debit Card,162.21
+5809,623,Home,South,Credit Card,5.07
+5178,624,Beauty,West,Debit Card,258.01
+8245,625,Beauty,West,Credit Card,28.19
+7600,626,Electronics,West,Debit Card,141.7
+6997,627,Clothing,West,Mobile Pay,354.95
+3048,628,Beauty,South,Cash,36.03
+5780,629,Beauty,East,Credit Card,420.47
+1716,630,Groceries,South,Debit Card,6.89
+8939,631,Clothing,North,Debit Card,127.18
+6565,632,Groceries,West,Debit Card,371.75
+5544,633,Clothing,West,Mobile Pay,161.55
+5976,634,Groceries,North,Mobile Pay,55.44
+4419,635,Beauty,South,Credit Card,183.32
+8239,636,Beauty,East,Credit Card,138.84
+1249,637,Electronics,East,Mobile Pay,422.14
+9865,638,Groceries,North,Credit Card,160.11
+1770,639,Home,East,Cash,395.52
+5363,640,Electronics,South,Cash,446.48
+2077,641,Groceries,South,Mobile Pay,219.74
+9427,642,Groceries,North,Credit Card,455.42
+9580,643,Electronics,South,Debit Card,191.77
+8901,644,Beauty,West,Cash,482.22
+5858,645,Groceries,North,Mobile Pay,49.2
+7544,646,Beauty,South,Credit Card,345.07
+5719,647,Electronics,North,Mobile Pay,249.44
+3814,648,Beauty,East,Debit Card,196.89
+4374,649,Clothing,South,Cash,318.19
+2252,650,Home,West,Mobile Pay,353.41
+7996,651,Groceries,South,Mobile Pay,7.16
+5673,652,Home,North,Mobile Pay,87.64
+5530,653,Beauty,North,Debit Card,357.96
+7881,654,Groceries,South,Mobile Pay,334.86
+7949,655,Beauty,West,Debit Card,483.19
+7241,656,Clothing,West,Debit Card,381.71
+9017,657,Electronics,West,Debit Card,475.63
+7941,658,Groceries,North,Cash,352.76
+8002,659,Clothing,South,Cash,152.54
+2331,660,Clothing,East,Mobile Pay,57.16
+5261,661,Groceries,North,Mobile Pay,392.0
+8648,662,Beauty,West,Cash,323.85
+6115,663,Clothing,South,Credit Card,28.85
+5637,664,Home,West,Cash,183.22
+5854,665,Clothing,East,Debit Card,478.62
+4177,666,Beauty,West,Cash,252.7
+8730,667,Beauty,West,Debit Card,219.2
+3180,668,Home,East,Mobile Pay,231.56
+5892,669,Clothing,South,Credit Card,108.4
+8043,670,Beauty,North,Mobile Pay,187.51
+1137,671,Groceries,South,Debit Card,188.06
+7327,672,Electronics,East,Debit Card,30.92
+4472,673,Electronics,West,Debit Card,384.95
+6449,674,Electronics,South,Credit Card,211.17
+3832,675,Clothing,North,Cash,411.98
+4579,676,Home,East,Mobile Pay,425.92
+6971,677,Beauty,South,Mobile Pay,109.94
+5164,678,Groceries,North,Cash,330.39
+8941,679,Groceries,East,Mobile Pay,238.78
+6569,680,Clothing,North,Credit Card,440.68
+5300,681,Electronics,East,Mobile Pay,111.79
+7269,682,Clothing,West,Debit Card,340.52
+4818,683,Home,South,Cash,305.84
+2906,684,Home,North,Credit Card,151.17
+7254,685,Beauty,East,Cash,72.62
+1760,686,Beauty,North,Credit Card,327.56
+8830,687,Home,North,Debit Card,370.61
+8350,688,Home,South,Cash,161.24
+7238,689,Home,West,Mobile Pay,324.19
+7090,690,Clothing,North,Credit Card,200.59
+7031,691,Home,East,Cash,358.04
+8687,692,Groceries,East,Mobile Pay,103.61
+9472,693,Electronics,West,Cash,445.66
+2887,694,Home,East,Cash,147.27
+4266,695,Electronics,West,Cash,187.05
+1666,696,Clothing,East,Credit Card,33.76
+5188,697,Electronics,South,Mobile Pay,60.2
+1671,698,Clothing,North,Debit Card,260.35
+7777,699,Groceries,South,Credit Card,137.46
+8570,700,Clothing,North,Credit Card,418.56
+8956,701,Clothing,North,Credit Card,12.27
+6124,702,Beauty,North,Debit Card,192.65
+6585,703,Home,South,Mobile Pay,171.99
+5777,704,Home,North,Mobile Pay,14.57
+4900,705,Groceries,South,Mobile Pay,66.56
+7677,706,Groceries,West,Cash,209.75
+7981,707,Home,East,Cash,248.97
+7376,708,Beauty,East,Cash,205.12
+1523,709,Home,North,Debit Card,267.81
+3393,710,Beauty,South,Cash,299.59
+3593,711,Groceries,East,Debit Card,9.91
+8240,712,Electronics,South,Mobile Pay,234.73
+7937,713,Groceries,South,Cash,481.93
+7190,714,Groceries,North,Cash,261.92
+6240,715,Clothing,East,Credit Card,340.38
+7493,716,Clothing,North,Debit Card,159.37
+3878,717,Clothing,North,Mobile Pay,388.13
+5143,718,Clothing,East,Credit Card,387.6
+4644,719,Beauty,East,Credit Card,263.04
+5432,720,Home,West,Mobile Pay,488.13
+2276,721,Electronics,West,Credit Card,67.15
+6811,722,Groceries,South,Debit Card,13.39
+1302,723,Beauty,East,Debit Card,386.23
+1638,724,Electronics,West,Cash,404.54
+1055,725,Beauty,South,Credit Card,64.5
+9717,726,Beauty,South,Cash,136.46
+9150,727,Groceries,South,Credit Card,13.69
+3125,728,Home,West,Debit Card,150.19
+1364,729,Clothing,East,Debit Card,387.71
+7809,730,Home,North,Debit Card,261.39
+5621,731,Groceries,South,Credit Card,177.31
+6126,732,Groceries,West,Debit Card,189.01
+6122,733,Groceries,West,Credit Card,5.67
+2646,734,Electronics,North,Cash,153.4
+1918,735,Home,North,Credit Card,325.0
+3797,736,Home,West,Cash,487.23
+7506,737,Beauty,East,Credit Card,424.3
+6870,738,Beauty,North,Cash,16.68
+2531,739,Beauty,West,Debit Card,449.79
+9172,740,Groceries,North,Cash,392.68
+4345,741,Home,East,Debit Card,391.29
+8673,742,Groceries,South,Debit Card,231.71
+7949,743,Electronics,North,Cash,202.01
+7882,744,Beauty,East,Credit Card,154.94
+2906,745,Groceries,West,Credit Card,37.52
+4086,746,Groceries,North,Mobile Pay,117.98
+9152,747,Electronics,North,Credit Card,127.07
+6750,748,Clothing,West,Mobile Pay,244.62
+9905,749,Home,South,Credit Card,374.98
+2062,750,Clothing,West,Credit Card,239.54
